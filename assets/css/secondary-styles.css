@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .hero {
     background-position: bottom;
     height: auto;
@@ -42,3 +43,49 @@ li {
 color: #39a6b2;
 margin: 10px 0px
 }
+=======
+.hero {
+    background-position: bottom;
+    height: auto;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+  
+.page-title {
+
+    color: #fce138;
+    display: inline-block;
+    border-bottom: 4px solid;
+    padding: 0px 80px 15px 80px;
+    font-weight: normal;
+    font-size: 42px;
+    font-style: italic;
+}
+
+.secondary-content {
+width: 80%;
+margin: auto;
+color: #024e76;
+}
+
+header h3 {
+font size: 25px;
+margin: 20px 0px
+}
+
+p {
+font size: 16px;
+line-height: 1.5;
+margin: 20px 0px;
+}
+
+ul {
+margin: 15px 20px;
+}
+
+li {
+color: #39a6b2;
+margin: 10px 0px
+}
+>>>>>>> 9da5c5a2182240fdf4197d4ead71cba711c7a297
